@@ -1,10 +1,13 @@
-﻿using System.Reflection.Metadata;
+﻿using System;
+using System.Reflection.Metadata;
 
 namespace Test {
     internal class Program {
         static void Main(string[] args) {
 
             Console.WriteLine("Test");
+            Console.WriteLine("Test 2");
+            Console.WriteLine("Test 3");
 
         }//end main
         #region PROMPT FUNCTIONS
